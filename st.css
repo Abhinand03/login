@@ -1,0 +1,18 @@
+.cont{
+    background: radial-gradient(#565c58, transparent);
+    border-radius: 75px;
+
+}
+.bg{
+    background-image:url(abstract-digital-grid-black-background.jpg);
+    background-size: 100% 100%;
+}
+.h-3{
+
+    color: aqua;
+}
+.bt1{
+    width: 308px;
+    font-size: 19px;
+    border: 2px aqua solid;
+}
